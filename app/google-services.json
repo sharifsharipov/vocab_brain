@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "956919219232",
+    "project_id": "vocab-brain",
+    "storage_bucket": "vocab-brain.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956919219232:android:270d858dbc5612af3e2845",
+        "android_client_info": {
+          "package_name": "uz.sharif.vocabbrain"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGiizq3RAajYf4-mlk_tlkZr6eEWVgcMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
