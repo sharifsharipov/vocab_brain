@@ -21,7 +21,7 @@ data class QuizQuestionDto(
 )
 
 @Serializable
-data class QuizSettingsDto(
+data class xQuizSettingsDto(
     @SerialName("total_questions") val totalQuestions: Int,
     @SerialName("time_per_question_seconds") val timePerQuestionSeconds: Int,
 )
